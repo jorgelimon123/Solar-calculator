@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/solar-calculator/static/css/main.31d6cfe0.css",
+    "main.js": "/solar-calculator/static/js/main.216f1160.js",
+    "index.html": "/solar-calculator/index.html",
+    "main.216f1160.js.map": "/solar-calculator/static/js/main.216f1160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.216f1160.js"
+  ]
+}
